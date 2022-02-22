@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @camrysa
+- 👋 Hi, I’m @Camrysa
 - 👀 I’m interested in Front end
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
